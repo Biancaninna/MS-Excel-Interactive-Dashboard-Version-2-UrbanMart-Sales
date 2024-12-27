@@ -4,7 +4,7 @@ In this project, we will create dynamic and interactive dashboard of UrbanMart S
 
 ### To see the final result of dashboard visualization using MS Excel, visit:
 
-[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]( https://biancaninna.github.io/MS-Excel-Dashboard-Simple-Analysis-of-UrbanMart-Sales-by-Region/)
+[![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://1drv.ms/x/c/0650c4db5a26dd3c/IQQS_RV_r5KeRrQst9k7BbjhAR00GLIk-s5Oi9YHeV2CEZ4?em=2&AllowTyping=True&ActiveCell='Dashboard'!T17&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ## Requirements
 
@@ -40,41 +40,41 @@ Our clients wants us to create simple analysis of UrbanMart Sales by Region MS E
     1. Convert the data into table
     2. Insert pivot table 
 
-    ![Data](/images/data.PNG)
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Data%20Source.png)
 
 2. **Total Sales Monthly Trend**
 
     Insert the pivot table where month as the row labels and TransactionValue as the values. Then apply line chart.
 
-    ![Total Sales Monthly Trend](/images/unit_sold_each_month.PNG)
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Total%20Sales%20Monthly%20Trend.png)
 
 3. **Total Sales by Category**
 
     Insert the pivot table where ProductCategory as the row labels and TransactionValue as the values. Then the Bar chart.
 
-    ![Total Sales by Category](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Total%20Sales%20by%20Category.png)
 
 4. **Total Sales by Region**
 
     Insert the pivot table where Region as the row labels and TransactionValue as the values. Then the Bar chart.
 
-    ![Total Transaction by Payment Method](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Total%20Sales%20by%20Region.png)
 
 5. **Total Transaction by Payment Method**
 
     Insert the pivot table where PaymentMethod as the row labels and TransactionValue as the values. Then the Pie chart.
 
-    ![Total Transaction by Payment Method](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Total%20Transaction%20by%20Payment%20Method.png)
 
 5. **Total Sales by Age Category**
 
     Insert the pivot table where CustomerAgeGroup as the row labels and TransactionValue as the values. Then the Column chart.
 
-    ![Total Sales by Age Category](/images/unit%20product%20sold.PNG)
+   ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Total%20Sales%20by%20Age%20Category.png) 
 
 6.  **Slicer**
 
     Select the chart and insert slicer from going to the pivot analyze. Connect slicer to all the pivot table.
 
-    ![Slicer](/images/slicer.PNG)
+    ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/9c43de6b82b33462beaca7aa444309aa8cad9dfa/images/Slicer.png) 
 
