@@ -6,7 +6,7 @@ In this project, we will create dynamic and interactive dashboard of UrbanMart S
 
 [![N|Solid](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://1drv.ms/x/c/0650c4db5a26dd3c/IQQS_RV_r5KeRrQst9k7BbjhAR00GLIk-s5Oi9YHeV2CEZ4?em=2&AllowTyping=True&ActiveCell='Dashboard'!T17&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True)
 
-### The dashboard final looks 
+### MS Excel dashboard final looks 
 
  ![image alt](https://github.com/Biancaninna/MS-Excel-Interactive-Dashboard-Version-2-UrbanMart-Sales/blob/701cba138ecae0cb6525c11418eaf4af0c4c4ca3/MS%20Excel%20Interactive%20Dashboard%20Version%202.0.png)
 
